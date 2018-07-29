@@ -1,0 +1,26 @@
+.actions {
+    border-bottom: 1px solid #dcdbdb;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.connection-status {
+    float: right;
+}
+
+.connected {
+    background: #84dc6f;
+}
+
+.disconnected {
+    background: #dc4d3a;
+}
+
+th {
+    text-align: left;
+    text-transform: uppercase;
+}
+
+td {
+    padding-right:10px;
+}
